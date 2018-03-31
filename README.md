@@ -1,4 +1,5 @@
 To build this program type make.
+To uninstall the program type make clean-all.
 
 To run the program type ./sudoku.
 
